@@ -7,14 +7,14 @@ function MainContent() {
             <h3>Quais são nossos serviços?</h3>
             <div className="blocos">
                 <div className="bloco">
-                    <h3 style={{color: "purple",}}>Sites</h3>
+                    <h3 style={{color: "purple",}}><a href="https://github.com/DevSystemLTDA/Site">Sites</a></h3>
                     <p>
                         Na DevSystems, criamos sites sob medida que são modernos, responsivos
                         e otimizados para oferecer a melhor experiência ao usuário.
                     </p>
                 </div>
                 <div className="bloco">
-                    <h3 style={{color: "purple",}}>Sistemas</h3>
+                    <h3 style={{color: "purple",}}><a href="https://github.com/DevSystemLTDA/ClientManager">Sistemas</a></h3>
                     <p>
                         A DevSystems se destaca na criação de sistemas personalizados que otimizam
                         processos e aumentam a eficiência operacional.
